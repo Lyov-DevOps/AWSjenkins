@@ -2,7 +2,7 @@
 mkdir s3Volume
 sudo apt update
 sudo apt install s3fs -y
-sudo apt install openjdk-11-jre -y
+#sudo apt install openjdk-11-jre -y
 sudo apt install nginx -y  
 sudo systemctl enable nginx  
 sudo systemctl enable nginx 
